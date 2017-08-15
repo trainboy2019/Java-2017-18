@@ -16,6 +16,11 @@ public class Chapter1 {
 		System.out.println(((9.5*4.5)-(2.5*3))/(45.5-3.5));
 		
 		System.out.println();
+		System.out.println(1.6);
+		
+		System.out.println(1+2+3+4+5+6+7+8+9);
+		
+		System.out.println();
 		System.out.println(1.8);
 		
 		System.out.println(2*5.5*(1.0-(1/3)+(1/5)-(1/7)+(1/9)-(1/11)+(1/13)));
@@ -48,23 +53,8 @@ public class Chapter1 {
 		System.out.println();
 		System.out.println(1.13);
 		
-		double a=3.4;
-		double b=50.2;
-		double c=2.1;
-		double d=0.55;
-		double e;
-		double f;
-		double x;
-		double y;
-		e=a+b;
-		f=c+d;
-		x=((e*d)-(b*f))/((a*d)-(b*c));
-		y=((a*f)-(e*c))/((a*d)-(b*c));
-		System.out.println(x);
-		System.out.println(y);
-		
-		
-		
+		System.out.println((44.5*0.55-50.2*5.9)/(3.4*0.55-50.2*2.1));
+		System.out.println((3.4*5.9-44.5*2.1)/(3.4*0.55-50.2*2.1));
 		
 	}
 
