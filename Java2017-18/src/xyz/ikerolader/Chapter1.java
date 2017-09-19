@@ -1,4 +1,5 @@
 package xyz.ikerolader;
+import java.*;
 
 public class Chapter1 {
 	public static void main(String[] args) {
