@@ -35,7 +35,7 @@ public class Chapter3 {
 //		case 11: println("November");break;
 //		case 12: println("December");break;
 //		}
-		
+//		
 //		println("3.5");
 //		println("Enter a day of the week. (0=Sunday, 6=Saturday) After that, enter the number of days in the future you want.");
 //		int day=input.nextInt();
@@ -50,7 +50,7 @@ public class Chapter3 {
 //		case 5: println("Friday");break;
 //		case 6: println("Saturday");break;
 //		}
-		
+//		
 //		println("3.6");
 //		println("weight in pounds");
 //		double weight=input.nextDouble();
@@ -73,7 +73,7 @@ public class Chapter3 {
 //			println("overweight");
 //		else
 //			println("obese");
-		
+//		
 //		println("3.7");
 //		System.out.print("Enter amount as a decimal");
 //		double amount=input.nextDouble();
@@ -112,7 +112,7 @@ public class Chapter3 {
 //			println("penny");
 //		else
 //			println("pennies");
-		
+//		
 //		println("3.8");
 //		println("enter 3 numbers");
 //		int a=input.nextInt();
@@ -136,7 +136,7 @@ public class Chapter3 {
 //			println(c+" "+b+" "+a);
 //		if(cLow&&bHi)
 //			println(c+" "+a+" "+b);
-		
+//		
 //		println("3.10");
 //		double doubA=(Math.random());
 //		int numA=(int)(doubA*100);
@@ -149,7 +149,7 @@ public class Chapter3 {
 //			println("Correct");
 //		else
 //			println("No, the answer is "+realAnswer);
-		
+//		
 //		println("3.11");
 //		println("enter month number followed by year");
 //		int month=input.nextInt();
@@ -171,7 +171,7 @@ public class Chapter3 {
 //		case 12: println("December "+year+" has 31 days");break;
 //		case 13: println("February "+year+" has 29 days");break;
 //		}
-		
+//		
 //		println("3.12");
 //		println("enter a 3 digit number");
 //		int num=input.nextInt();
@@ -183,7 +183,7 @@ public class Chapter3 {
 //			println("yes");
 //		else
 //			println("no");
-		
+//		
 //		println("3.13");
 //		println("0-single, 1-married jointly or widow, 2-married separately, 3-head of house");
 //		int status=input.nextInt();
@@ -249,7 +249,7 @@ public class Chapter3 {
 //		}break;
 //		}
 //		println("Tax is "+(int)(tax*100)/100.0);
-		
+//		
 //		println("3.14");
 //		int ans;
 //		if(Math.random()>=0.5) {
@@ -266,7 +266,7 @@ public class Chapter3 {
 //		else {
 //			println("no");
 //		}
-		
+//		
 //		println("3.15");
 //		int lotto1=(int)(Math.random()*10);
 //		int lotto2=(int)(Math.random()*10);
@@ -326,7 +326,7 @@ public class Chapter3 {
 //		else if(guessLoto1||guessLoto2||guessLoto3) {
 //			println("$1000");
 //		}
-		
+//		
 //		println("3.16");
 //		double doubA=(Math.random());
 //		int width=(int)(doubA*100);
@@ -334,7 +334,7 @@ public class Chapter3 {
 //		double doubC=(Math.random());
 //		int height=(int)(doubB*100+doubC*100);
 //		println("("+width+", "+height+")");
-		
+//		
 //		println(3.21);
 //		int q, h, m, j, k;
 //		println("Enter the day of the month, followed by the month, followed by the century, followed by the year of the century");
@@ -358,7 +358,7 @@ public class Chapter3 {
 //		case 5: println("Thursday");break;
 //		case 6: println("Friday");break;
 //		}
-		
+//		
 //		println(3.24);
 //		int card=(int)((Math.random()*13)+1);
 //		int suit=(int)(Math.random()*4);
@@ -383,7 +383,7 @@ public class Chapter3 {
 //		case 2: System.out.print(" of Hearts.");break;
 //		case 3: System.out.print(" of Diamonds.");break;
 //		}
-		
+//		
 //		println(3.26);
 //		println("enter number");
 //		int num=input.nextInt();
@@ -400,7 +400,7 @@ public class Chapter3 {
 //		println(num+" divisable by both: "+both);
 //		println(num+" divisable by either: "+either);
 //		println(num+" divisable by one: "+single);
-		
+//		
 //		println(3.28);
 //		println("enter center coordinate and width and height for 2 rectangles");
 //		double acx,acy,aw,ah,bcx,bcy,bw,bh;
