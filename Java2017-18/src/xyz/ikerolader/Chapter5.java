@@ -143,55 +143,55 @@ public class Chapter5 {
 //		}
 //		System.out.printf("%.2f\n", amount);
 		
-//		println(5.41);
-//		println("enter numbers");
-//		int[] array = new int[input.nextInt()];
-//		int a=0;
-//		int b;
-//		int max=0;
-//		int times=0;
-//		for(int i=0;i<array.length; i++) {
-//			if(i!=0) {
-//				a=array[i-1];
-//				b=array[i];
-//				println(a);
-//				println(b);
-//				if(a<b) {
-//					max=b;
-//				}
-//				else {
-//					max=a;
-//				}
-//			}
-//			else {
-//				b=array[i];
-//				max=b;
-//				times=1;
-//				//continue;
-//			}
-//			if(b>max) {
-//				max=b;
-//				times=1;
-//			}
-//			else {
-//				times++;
-//			}
-//
-//			println(a);
-//			println(b);
-//			
-//		}
-//		
-//		println(max);
-//		
-//		println(5.46);
-//		println("entert a string");
-//		String text=input.nextLine();
-//		String rev="";
-//		for(int i=0;i<text.length();i++) {
-//			rev=rev+text.charAt(text.length()-1-i);
-//		}
-//		println(rev);
+		println(5.41);
+		println("enter numbers");
+		int[] array = new int[input.nextInt()];
+		int a=0;
+		int b;
+		int max=0;
+		int times=0;
+		for(int i=0;i<array.length; i++) {
+			if(i!=0) {
+				a=array[i-1];
+				b=array[i];
+				println(a);
+				println(b);
+				if(a<b) {
+					max=b;
+				}
+				else {
+					max=a;
+				}
+			}
+			else {
+				b=array[i];
+				max=b;
+				times=1;
+				//continue;
+			}
+			if(b>max) {
+				max=b;
+				times=1;
+			}
+			else {
+				times++;
+			}
+
+			println(a);
+			println(b);
+			
+		}
+		
+		println(max);
+		
+		println(5.46);
+		println("entert a string");
+		String text=input.nextLine();
+		String rev="";
+		for(int i=0;i<text.length();i++) {
+			rev=rev+text.charAt(text.length()-1-i);
+		}
+		println(rev);
 		
 //		println(5.49);
 //		int v=0;
