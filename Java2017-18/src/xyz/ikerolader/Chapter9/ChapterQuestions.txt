@@ -1,0 +1,57 @@
+1. In essence, the class contains all of the functions/methods an object can perform.
+2. public class <class name>{
+	<Data Field>
+	<Constructors>
+	<Methods>
+}
+3. ClassName variableName;
+4. Object objectVar = new Object();
+5. Constructers don't return anything at all and are invoked with new and initialize objects. Methods don't do that, methods do return something, even if it's void.
+6. When no constructors are explicitly defined.
+7. objectVar.methodName(args);
+8.  An anonymous object is one that is called to run a method and return the value on the spot.
+9. A NullPointerException is an error thrown when a reference variable is set to null
+10. Object, yes, null
+11. Invalid argument, No argument or function x, C has not arguments to use in the function, C doesn't take any arguments
+12. New A(); has no argument for newS
+13. false
+14. import java.util.Date;
+Date date=new Date();
+System.out.println(date.toString());
+15. import java.geometry.Point2D;
+double x1=0;
+double y1=0;
+double x2=1;
+double y2=1;
+Point2D p1=new Point2D(x1,y1);
+Point2D p2=new Point2D(x2,y2);
+double distance=p1.distance(p2);
+16. util, util, lang, java
+17. 1,2,3,4,6,8
+18. static, , static
+19. no, yes, static methods can't call instance methods, c is called before it's defined.
+20. an accessor method allows a private variable to be called through that object. a mutator method allows a private variable to be changed through that object. getVariable and setVariable
+21. it makes classes easier to manage and protects private data
+22. yes, radius is private, so it can only be called through an accessor
+23. count is 101
+times it 100
+24. after swap1: circle1 = 2 circle2 = 1
+after swap2: circle1 = 1 circle 2 = 2
+25. a[0]=2 a[1]=1
+a[0]=2 a[1]=1
+e1=1 e2=2
+t1's i=1 and j=1\nt2's i=1 and j=1;
+26. null
+1234567
+7654321
+1234567
+27. All values in dates are null
+28. If it doesn't return references to mutable data fields.
+29. yes
+30. no
+31. i+j is 23
+k is 2
+j is 0
+32. this refers to the object itself. It can be used to refer to hidden data fields and invoke constructors.
+33. it's setting the value of the local variable p, rather than the instance variable p.
+34. No constructor.

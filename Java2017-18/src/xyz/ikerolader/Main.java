@@ -1,5 +1,6 @@
 package xyz.ikerolader;
-import xyz.ikerolader.*;
+
+import xyz.ikerolader.Chapter9.Chapter9;
 
 public class Main {
 	public static void main(String[] args) {
@@ -10,7 +11,8 @@ public class Main {
 		//Chapter5.main(args);
 		//Chapter6.main(args);
 		//Chapter7.main(args);
-		Chapter8.main(args);
+		//Chapter8.main(args);
+		Chapter9.main(args);
 	}
 
 }
