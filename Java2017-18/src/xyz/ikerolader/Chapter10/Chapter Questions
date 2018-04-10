@@ -1,0 +1,36 @@
+1. No
+2. yes
+3. Association, Aggregation, Composition, Inheritance
+4. Association is a general binary relationship that describes an activity between two classes. Aggregation is a special form of association that represents an ownership relationship between two objects. Aggregation models has-a relationships. An object can be owned by several other aggregating objects. If an object is exclusively owned by an aggregating object, the relationship between the object and its aggregating object is referred to as a composition.
+5. Aggregation: empty diamond, Composition: solid diamond
+6. Since they are represented using the same class in the same way, it's simpler to just call them both composition
+7. Allows primitives to be converted into objects and objects into other objects.
+8. yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+9. 
+	a. Integer("int").toString();
+	b. Double("double").toString();
+	c. Double.parseDouble("string");
+10. 3\n-1
+11. 10\n10 10 base of 10 = 10\n16 10 base of 16 = conversion to 16\n11\n11 11 base of 10 = 11 no change\n17 11 base of 16 = 16+ 1 = 17
+12. yes yes no yes yes yes
+13. 3 -1
+14. x is 3 y is 7 z is 10
+15. true false false true true "Welcome to HTML" "WelcTme to Java" "WelcTm tT Java" "W+e+l+c+o+m+e+ +t+o+ +J+a+v+a"
+16. String s="Welcome to java"
+17. Welcome to Java\nWelcabcme tabc Java
+18. s2=s1.replace("e","E");
+
+19. no
+20. 0
+21. valueOf
+22. String.text doesn't point to a string, so toLowerCase would cause a NullPointerException
+23. The Test(String) constructor isn't defined
+24. false\ntrue\nA,B;C\nA#B#C\nA,B;C
+25. 3
+26. StringBuilder is synchronized.
+27. StringBuilder sb1 = new StringBuilder("My string");      String s=sb1.toString();
+28. StringBuilder sb=new StringBuilder(s); sb.reverse(); s=sb.toString();
+29. StringBuilder sb=new StringBuilder(s); sb.delete(4,10); s=sb.toString();
+30. Both string and string buffer use arrays to hold characters. The array in a string is fixed once a string is created. The array in a string buffer may change if the buffer capacity is changed. To accommodate the change, a new array is created.
+31. Java is Fun.\nJavaHTML.\nJais funva.\nJHTMLava.\nv\n4\nJav\nJa\navaJ\nJcomputera.\nJava.\nJava
+32. Java\nJava and HTML
