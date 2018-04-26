@@ -1,0 +1,50 @@
+19. No, yes, yes, yes
+20. int[] won't work with the function, it should be Integer[]
+21. 
+a. Person\nStudent
+b. Person\nPerson
+22. B's constructor is invoked\nA's constructor is invoked
+23. i from A is 40\ni from A is 60\ni from B is 60
+24. true, false
+25.
+a. true,true,true,false
+b. yes
+c. no, you'll get a ClassCastException
+26. 
+a. true
+b. false
+c. true
+d. true
+e. false
+f. true
+g. true
+h. false
+i. yes, no
+j. yes, no
+k. no
+l. yes
+m. no
+27. Object apple = (Apple)fruit should be Object apple = new Apple();
+29. 
+a.
+false
+b.
+false
+31. java.util.Date isn't a string
+32. 
+for (int i=0;i<list.size();i++){
+	if (list.get(i)=="Dallas"){
+		list.remove(i);
+		i--;
+	}
+}
+33. it's removing the item at index 1, which is the second item
+34. 1 isn't a double
+35. Integer, not int
+36. Integer, not int
+39. yes, no, yes
+40. no, no, no
+
+
+
+
