@@ -1,0 +1,26 @@
+2. 1/0
+5. value is too small    Continue after catch block
+6. 0 
+0 
+13. 
+no
+yes
+yes
+14. runtime
+15. ArithmeticException
+16. RuntimeException in method() After the method call
+20. public void m(int value) throws Exception{
+21. yes, yes, yes
+22. yes
+String s="abc";
+		boolean isDouble=false;
+		try {
+			double x=Double.parseDouble(s);
+			isDouble=true;
+		}
+		finally {
+			println(isDouble);
+			return;
+		}
+23. yes,yes,yes,yes
+26. Exception in method() after the method call
